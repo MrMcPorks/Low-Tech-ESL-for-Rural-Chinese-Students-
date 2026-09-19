@@ -21,8 +21,8 @@ Dates are open while I work out the design and development process.
 
 | Milestone | Goal | Status | Target Date |
 | --- | --- | --- | --- |
-| Vocabulary structure | Define difficulty levels and word-selection criteria | Planned | TBD |
-| Beginner word set | Compile and review the first 1,000 words | Planned | TBD |
+| Vocabulary structure | Define difficulty levels and word-selection criteria | Completed | 9/19/26 |
+| Beginner word set | Compile and review the first 1,000 words | Completed | 9/19/26 |
 | Flashcard prototype | Build a basic study and review interface | Planned | TBD |
 | Adaptive practice | Adjust quizzes based on previous answers | Planned | TBD |
 | Checkpoint quizzes | Add quizzes at defined word-count intervals | Planned | TBD |
