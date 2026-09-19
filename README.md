@@ -32,8 +32,8 @@ Dates are open while I work out the design and development process.
 
 - [x] Outline the project’s purpose and initial scope
 - [x] Choose the vocabulary trainer as the first component
-- [ ] Define word-selection criteria
-- [ ] Compile the beginner vocabulary set
+- [x] Define word-selection criteria
+- [x] Compile the beginner vocabulary set
 - [ ] Decide how many words each checkpoint will cover
 - [ ] Design the initial interface
 - [ ] Build the flashcard prototype
@@ -43,10 +43,10 @@ Dates are open while I work out the design and development process.
 
 ## Progress Log
 
-### 2026-09-19 — Initial Planning
+### 2026-09-19 — Initization
 
 - Defined the project as an independent effort focused on vocabulary learning with minimal technology.
-- Set the first 1,000 beginner words as the initial content goal.
+- Set the first 1,000 beginner words as the initial content goal (Completed 9/19/26 at 1:07pm).
 - Planned a structure that can later support intermediate and advanced word sets.
 - Identified adaptive practice, checkpoint quizzes, and progress tracking as intended features.
 
