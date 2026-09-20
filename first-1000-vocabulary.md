@@ -49,7 +49,7 @@ All 505 source entries are retained. British spellings remain the display forms 
 | --- | --- | --- | --- |
 | B1-0001 | a/an | 一个 | S |
 | B1-0002 | about | 大约 | S |
-| B1-0003 | after | 在……之后 | M |
+| B1-0003 | after | 后 | M |
 | B1-0004 | afternoon | 下午 | S |
 | B1-0005 | again | 再一次 | S |
 | B1-0006 | age | 年龄 | M |
@@ -85,12 +85,12 @@ All 505 source entries are retained. British spellings remain the display forms 
 | B1-0036 | because | 因为 | M |
 | B1-0037 | bed | 床 | S |
 | B1-0038 | bee | 蜜蜂 | S |
-| B1-0039 | before | 在……之前 | M |
+| B1-0039 | before | 前 | M |
 | B1-0040 | begin | 开始 | F |
 | B1-0041 | behind | 在……后面 | S |
 | B1-0042 | beside | 在……旁边 | — |
 | B1-0043 | best | 最好的 | M |
-| B1-0044 | between | 在……之间 | S |
+| B1-0044 | between | 之间 | S |
 | B1-0045 | big | 大的 | S |
 | B1-0046 | bike | 自行车 | S |
 | B1-0047 | bird | 鸟 | S |
@@ -118,7 +118,7 @@ All 505 source entries are retained. British spellings remain the display forms 
 | B1-0069 | can | 能 | S |
 | B1-0070 | candle | 蜡烛 | — |
 | B1-0071 | candy | 糖果 | S |
-| B1-0072 | cap | 鸭舌帽等有帽舌的帽子 | — |
+| B1-0072 | cap | 帽子 | — |
 | B1-0073 | car | 汽车 | S |
 | B1-0074 | card | 卡片 | F |
 | B1-0075 | careful | 小心的 | M |
